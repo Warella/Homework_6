@@ -1,0 +1,15 @@
+C:\Users\пк\Desktop\Homework_6\Exercise_43\bin\Debug\net6.0\Exercise_43.exe
+C:\Users\пк\Desktop\Homework_6\Exercise_43\bin\Debug\net6.0\Exercise_43.deps.json
+C:\Users\пк\Desktop\Homework_6\Exercise_43\bin\Debug\net6.0\Exercise_43.runtimeconfig.json
+C:\Users\пк\Desktop\Homework_6\Exercise_43\bin\Debug\net6.0\Exercise_43.dll
+C:\Users\пк\Desktop\Homework_6\Exercise_43\bin\Debug\net6.0\Exercise_43.pdb
+C:\Users\пк\Desktop\Homework_6\Exercise_43\obj\Debug\net6.0\Exercise_43.csproj.AssemblyReference.cache
+C:\Users\пк\Desktop\Homework_6\Exercise_43\obj\Debug\net6.0\Exercise_43.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\пк\Desktop\Homework_6\Exercise_43\obj\Debug\net6.0\Exercise_43.AssemblyInfoInputs.cache
+C:\Users\пк\Desktop\Homework_6\Exercise_43\obj\Debug\net6.0\Exercise_43.AssemblyInfo.cs
+C:\Users\пк\Desktop\Homework_6\Exercise_43\obj\Debug\net6.0\Exercise_43.csproj.CoreCompileInputs.cache
+C:\Users\пк\Desktop\Homework_6\Exercise_43\obj\Debug\net6.0\Exercise_43.dll
+C:\Users\пк\Desktop\Homework_6\Exercise_43\obj\Debug\net6.0\refint\Exercise_43.dll
+C:\Users\пк\Desktop\Homework_6\Exercise_43\obj\Debug\net6.0\Exercise_43.pdb
+C:\Users\пк\Desktop\Homework_6\Exercise_43\obj\Debug\net6.0\Exercise_43.genruntimeconfig.cache
+C:\Users\пк\Desktop\Homework_6\Exercise_43\obj\Debug\net6.0\ref\Exercise_43.dll

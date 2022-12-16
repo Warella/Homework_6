@@ -1,0 +1,15 @@
+C:\Users\пк\Desktop\Homework_6\Exercise_41\obj\Debug\net6.0\Exercise_41.csproj.AssemblyReference.cache
+C:\Users\пк\Desktop\Homework_6\Exercise_41\obj\Debug\net6.0\Exercise_41.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\пк\Desktop\Homework_6\Exercise_41\obj\Debug\net6.0\Exercise_41.AssemblyInfoInputs.cache
+C:\Users\пк\Desktop\Homework_6\Exercise_41\obj\Debug\net6.0\Exercise_41.AssemblyInfo.cs
+C:\Users\пк\Desktop\Homework_6\Exercise_41\obj\Debug\net6.0\Exercise_41.csproj.CoreCompileInputs.cache
+C:\Users\пк\Desktop\Homework_6\Exercise_41\bin\Debug\net6.0\Exercise_41.exe
+C:\Users\пк\Desktop\Homework_6\Exercise_41\bin\Debug\net6.0\Exercise_41.deps.json
+C:\Users\пк\Desktop\Homework_6\Exercise_41\bin\Debug\net6.0\Exercise_41.runtimeconfig.json
+C:\Users\пк\Desktop\Homework_6\Exercise_41\bin\Debug\net6.0\Exercise_41.dll
+C:\Users\пк\Desktop\Homework_6\Exercise_41\bin\Debug\net6.0\Exercise_41.pdb
+C:\Users\пк\Desktop\Homework_6\Exercise_41\obj\Debug\net6.0\Exercise_41.dll
+C:\Users\пк\Desktop\Homework_6\Exercise_41\obj\Debug\net6.0\refint\Exercise_41.dll
+C:\Users\пк\Desktop\Homework_6\Exercise_41\obj\Debug\net6.0\Exercise_41.pdb
+C:\Users\пк\Desktop\Homework_6\Exercise_41\obj\Debug\net6.0\Exercise_41.genruntimeconfig.cache
+C:\Users\пк\Desktop\Homework_6\Exercise_41\obj\Debug\net6.0\ref\Exercise_41.dll
